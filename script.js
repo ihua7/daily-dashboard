@@ -141,7 +141,7 @@ document.addEventListener('DOMContentLoaded', function() {
     {
       id: 'a',
       title: 'web design',
-      startRecur: '2025-01-17',
+      startRecur: '2025-01-13',
       endRecur: '2025-02-10',
       daysOfWeek:[1,2,3],
       startTime:'12:00',

@@ -141,8 +141,8 @@ document.addEventListener('DOMContentLoaded', function() {
     {
       id: 'a',
       title: 'web design',
-      startRecur: '2022-01-17',
-      endRecur: '2022-02-10',
+      startRecur: '2025-01-17',
+      endRecur: '2025-02-10',
       daysOfWeek:[1,2,3],
       startTime:'12:00',
       endTime:'17:00'
@@ -151,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
       id: 'b',
       title:'FINAL!',
       allDay: true,
-      start: '2022-02-09'
+      start: '2025-02-09'
     }
   ]
   var calendarEl = document.getElementById('calendar1');
